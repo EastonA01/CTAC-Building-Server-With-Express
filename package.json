@@ -1,0 +1,20 @@
+{
+  "name": "serverwithexpress",
+  "version": "1.0.0",
+  "description": "Initial server setup using Express with Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EastonA01/CTAC-Building-Server-With-Express.git"
+  },
+  "author": "EastonA01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EastonA01/CTAC-Building-Server-With-Express/issues"
+  },
+  "homepage": "https://github.com/EastonA01/CTAC-Building-Server-With-Express#readme"
+}
